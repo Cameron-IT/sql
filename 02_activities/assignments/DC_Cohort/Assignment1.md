@@ -209,5 +209,11 @@ Consider, for example, concepts of fariness, inequality, social structures, marg
 
 
 ```
-Your thoughts...
+When applying for a childs passport, it is assumed that the relationship between the child's guardians are (were) romatic in nature. The only options to describe their 
+relationship are married, divorced, common law, and widowed. It does not allow for unconventional guardianship arrangements, shuch as shared custody between a parent and
+a grandparent. Therefore, the information captured by such applications does not reflect the complete possibilities of guardianship arrangements for a child. This complicates
+the application proess, intoduces biases into passport records, and may even interfere with travel. The implicit bias introduced by this system is that the guardianship of
+a child always involves two parents who had a romantic relationship. It may not account for friends who raised a child together, a parent and non-parent who co-parent a child, or 
+two parents who were never married/common law. This kind of bias is rooted in societies view of familial structures being that of a traditional nuclear family. To better capture the
+true range of guardianship situations, the options should be expanded when completing a child passport application.
 ```
